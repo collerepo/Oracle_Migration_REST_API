@@ -1,5 +1,5 @@
 # Oracle_Migration_REST_API
-A python REST API that can interpret a migration script that deploys a solidity oracle contract onto the ethereum blockchain.
+A python REST API that can interpret a migration script that deploys a solidity oracle contract onto the ethereum blockchain using the Flask framework.
 
 To create a Python REST API that can interpret a migration script that deploys an oracle contract onto the Ethereum blockchain, you'll need to follow these steps:
 
